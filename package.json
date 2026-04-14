@@ -1,1 +1,5 @@
-﻿{"name":"otakudesu-api","version":"1.0.0","description":"Otakudesu API for Vercel"}
+﻿{
+  "name": "otakudesu-api",
+  "version": "1.0.0",
+  "description": "Otakudesu API"
+}
